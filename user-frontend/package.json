@@ -2,7 +2,7 @@
   "name": "user-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michaeldiers.github.io/user-servives",
+  "homepage": "https://michaeldiers.github.io/user-services",
   "author": "Michael Diers",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
